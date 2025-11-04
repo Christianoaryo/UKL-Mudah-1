@@ -1,4 +1,4 @@
-# Program ini menjalankan fungsi untuk menghitung total biaya pengiriman barang :
+# Program untuk menghitung total biaya pengiriman barang :
 1.Berat benda (Kilogram)
 
 2.Jarak Pengiriman (Kilometer)
